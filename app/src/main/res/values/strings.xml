@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiete</string>
+    <string name="search_hint">Cerca</string>
+    <string name="drawer_empty">Nessun risultato</string>
+</resources>
